@@ -9,7 +9,7 @@ module.exports = {
             colors: {
                 primary: {
                     light: "#fefcbf", // For lighter primary color
-                    DEFAULT: "#0652DD", // Normal primary color
+                    DEFAULT: "#1B1464", // Normal primary color
                     dark: "#12CBC4", // Used for hover, active, etc.
                 },
                 red: {
